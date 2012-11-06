@@ -102,6 +102,11 @@ ul li {
   padding-left: 25px;
 }
 
+ul li #publi {
+   padding-left: 0px;
+   list-style-image: url(../images/gnome-document.png);
+}
+
 ol li {
   list-style: decimal inside;
   padding-left: 20px;
@@ -313,6 +318,7 @@ section {
   float:right;
   padding-bottom:50px;
 }
+
 
 
 /* Footer */
