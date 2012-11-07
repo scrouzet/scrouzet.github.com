@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Sébastien M. Crouzet</title>
@@ -13,8 +12,8 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-</head>
-<body>
+  </head>
+  <body>
     <div class="wrapper">
       <header>
         <h1 class="header">Sébastien M. Crouzet</h1>
@@ -24,12 +23,11 @@
           <li><a class="buttons github" href="https://github.com/scrouzet" target="_blank">GitHub</a></li>
         </ul>
 
-	  </header>
-      
+      </header>
       
 <section>
 
-<!-- <h3>Short bio</h3> -->
+<h3>Short bio</h3>
 
 <p>My general interest is to understand the perceptual mechanisms underlying visual recognition. I did a Ph.D. in Neuroscience with <a href="http://cerco.ups-tlse.fr/fr_vers/annuaire/simon_thorpe.htm" target="_blank">Simon Thorpe</a> in Toulouse, France, and a first postdoc with <a href="http://serre-lab.clps.brown.edu/" target="_blank">Thomas Serre</a> at <a href="http://www.brown.edu/" target="_blank">Brown University</a>, USA, where I studied the rapid perception of objects in natural scenes using eye movements, iEEG recordings and computational models. I am now working with <a href="http://www.oszillab.net/" target="_blank">Niko Busch</a> in Berlin, where I will use a combination of behavioral and EEG recordings to investigate the role of recurrent processes in visual perception.</p>
 
@@ -61,7 +59,7 @@
 		</ul>
 			
 			
-<h3>Contact information</h3>
+<h3>Contact</h3>
 
 <p> My office is currently located <a href="http://goo.gl/maps/Qb3T3" target="_blank">here</a> in the <a href="http://www.mind-and-brain.de" target="_blank">Berlin School of Mind & Brain</a>, even if I'm officially affiliated with the 	 Charité Universitätsmedizin Berlin.</p>
 
