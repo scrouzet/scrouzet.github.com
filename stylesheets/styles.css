@@ -165,6 +165,13 @@ section {
   padding-bottom:50px;
 }
 
+li.publi {
+	list-style-type: none;
+	background: url(../images/gnome-document.png) no-repeat top left;
+	height: 70px;
+	padding-left: 50px;
+}
+
 small {
   font-size:11px;
 }
