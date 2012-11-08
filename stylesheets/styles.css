@@ -170,7 +170,8 @@ li.publi {
 	<!--background: url(../images/gnome-document.png) no-repeat top left;-->
 	height: 200px;
 	padding-left: 0px;
-    margin-top: 1em; 
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     margin-left: 0px;
 }
 
