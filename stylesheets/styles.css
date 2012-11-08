@@ -168,8 +168,8 @@ section {
 li.publi {
 	list-style-type: none;
 	<!--background: url(../images/gnome-document.png) no-repeat top left;-->
-	height: 70px;
-	padding-left: 10px;
+	height: 90px;
+	padding-left: 0px;
 }
 
 small {
