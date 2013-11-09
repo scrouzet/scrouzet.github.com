@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.6)  9 NOV 2013 09:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.6)  9 NOV 2013 14:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -541,22 +541,22 @@ Overfull \hbox (10.70592pt too wide) in paragraph at lines 115--116
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 386--391
+[2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 385--390
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 393.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 393.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 392.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 392.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 392.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 392.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 392.
  ) 
 Here is how much of TeX's memory you used:
- 5460 strings out of 493315
- 79391 string characters out of 6137904
- 160801 words of memory out of 5000000
+ 5459 strings out of 493315
+ 79385 string characters out of 6137904
+ 161801 words of memory out of 5000000
  8862 multiletter control sequences out of 15000+600000
  60031 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -572,10 +572,10 @@ cal/texlive/2013/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texliv
 e/2013/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2013/texm
 f-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on CVSebastienCrouzet.pdf (6 pages, 296534 bytes).
+Output written on CVSebastienCrouzet.pdf (5 pages, 296444 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
