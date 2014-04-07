@@ -4,7 +4,11 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern} % polices vectorielles Latin Modern (respecte + les conventions)
 \usepackage[french]{babel}
+%\usepackage{amsmath}
 \usepackage[babel=true]{csquotes} % csquotes va utiliser la langue définie dans babel pour gerer les guillemets \enquote{}
+
+%\usepackage{textcomp}% symboles supplementaires
+%\usepackage{aeguill} % polices Adobe
 
 \usepackage[pdftex,                %
     bookmarks         = true,%     % Signets
@@ -43,7 +47,7 @@
 
 \vspace{3mm}
 \section{\mysidestyle Mots clés}
-    Perception; vision; neurosciences cognitives \& computationnelles; scènes naturelles; reconnaissance d'objets; \emph{machine learning}; dynamique de la perception.
+    Perception; vision; neurosciences cognitives \& computationnelles; scènes naturelles; environnement réel; reconnaissance d'objets; \emph{machine learning}; dynamique de la perception.
     
 \vspace{3mm}
 \section{\mysidestyle \'Education \\ \& Expérience \\ Académique}
@@ -69,15 +73,15 @@
 	ENS / EHESS / Ecole Polytechnique / Paris 5 / Paris 6, France
 	\vspace{-1.5mm}
 	
-	\textbf{Licence de Sciences Cognitives}, \textsl{Mention assez bien} \hfill \textbf{2004}\\
-	Université Bordeaux 2, France
-	 
-	\textbf{DEUG de Psychologie} \hfill \textbf{2003}\\
-	Université Paris 5, France
-	\vspace{-1.5mm}
-	 
-	\textbf{Baccalauréat Scientifique, spécialité Mathématiques} \hfill \textbf{2000}\\
-	Lycée Bernard Palissy, Saintes, France
+	% \textbf{Licence de Sciences Cognitives}, \textsl{Mention assez bien} \hfill \textbf{2004}\\
+	% Université Bordeaux 2, France
+	% 
+	% \textbf{DEUG de Psychologie} \hfill \textbf{2003}\\
+	% Université Paris 5, France
+	% \vspace{-1.5mm}
+	% 
+	% \textbf{Baccalauréat Scientifique, spécialité Mathématiques} \hfill \textbf{2000}\\
+	% Lycée Bernard Palissy, Saintes, France
 
 
 \vspace{3mm}
@@ -272,9 +276,9 @@ Sébastien M. Crouzet, Niko A. Busch, \& Kathrin Ohla (2014) Multivariate classi
 	
 
 
-\vspace{3mm}
-\section{\mysidestyle Résumé de mes Activités de \\Vulgarisation Scientifique}
-Mes expériences avec l'enseignement m'ont permis de découvrir un exercice que j'apprécie particulièrement et qui m’a beaucoup apporté au niveau personnel, mais aussi dans mon travail de recherche. En plus de ces activités officielles, mon intérêt pour la transmission de savoirs scientifiques s’est manifesté à travers une activité associative importante. Plus précisément, j’ai été initiateur, puis membre fondateur, de l’association inCOGnu ayant pour but de mettre en relation les étudiants intéressés par la cognition venant de divers domaines sur la région toulousaine, mais aussi d’amener étudiants et chercheurs à présenter leurs travaux au grand public. Personnellement, je me suis aussi rendu chaque année de ma thèse dans des lycées de la région Toulousaine (Lycée Toulouse Lautrec, Lycée Toulouse Auzeville) afin d’initier un groupe d’élèves à l’étude de la perception visuelle et auditive, ou aux effets de la drogue sur le cerveau.
+%\vspace{3mm}
+%\section{\mysidestyle Résumé de mes Activités de \\Vulgarisation Scientifique}
+%Mes expériences avec l'enseignement m'ont permis de découvrir un exercice que j'apprécie particulièrement et qui m’a beaucoup apporté au niveau personnel, mais aussi dans mon travail de recherche. En plus de ces activités officielles, mon intérêt pour la transmission de savoirs scientifiques s’est manifesté à travers une activité associative importante. Plus précisément, j’ai été initiateur, puis membre fondateur, de l’association inCOGnu ayant pour but de mettre en relation les étudiants intéressés par la cognition venant de divers domaines sur la région toulousaine, mais aussi d’amener étudiants et chercheurs à présenter leurs travaux au grand public. Personnellement, je me suis aussi rendu chaque année de ma thèse dans des lycées de la région Toulousaine (Lycée Toulouse Lautrec, Lycée Toulouse Auzeville) afin d’initier un groupe d’élèves à l’étude de la perception visuelle et auditive, ou aux effets de la drogue sur le cerveau.
 
 
 \vspace{3mm}
