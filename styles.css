@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#333333; <!-- previously #777 -->
   font-weight:300;
 }
 
@@ -51,7 +51,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:640px;
   margin:0 auto;
 }
 
@@ -102,8 +102,8 @@ img {
 
 header {
   width:270px;
-  float:left;
-  position:fixed;
+  float:none;
+  position:static;
 }
 
 header ul {
@@ -165,8 +165,9 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  /*width:500px;*/
+  width:auto;
+  float:none;
   padding-bottom:50px;
 }
 
@@ -233,6 +234,7 @@ footer {
   }
 }
 
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
@@ -243,7 +245,7 @@ footer {
   }
   
   header ul, header p.view {
-    position:static;
+    position:fixed;
   }
   
   pre, code {
